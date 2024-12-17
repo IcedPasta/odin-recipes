@@ -4,6 +4,10 @@
     font-family: Garamond, serif, Arial;
 }
 
+p {
+    font-size: large;
+}
+
 .title {
     background-color: #99b2dd;
     font-size: x-large;
@@ -12,4 +16,8 @@
 ul, li, a {
     background-color: #e9afa3;
     font-size: large;
+}
+
+.header {
+    font-weight: 800;
 }
