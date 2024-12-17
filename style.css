@@ -1,0 +1,15 @@
+* {
+    background-color: #F9DEC9;
+    color: #3A405A;
+    font-family: Garamond, serif, Arial;
+}
+
+.title {
+    background-color: #99b2dd;
+    font-size: x-large;
+}
+
+ul, li, a {
+    background-color: #e9afa3;
+    font-size: large;
+}
