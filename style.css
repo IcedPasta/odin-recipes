@@ -1,6 +1,6 @@
 * {
-    background-color: #F9DEC9;
-    color: #3A405A;
+    background-color: #c9f2c7;
+    color: #243119;
     font-family: Garamond, serif, Arial;
 }
 
@@ -9,13 +9,30 @@ p {
 }
 
 .title {
-    background-color: #99b2dd;
-    font-size: x-large;
+    box-sizing: content-box;
+    background-color: #96be8c;
+    font-size: 32px;
+    width: 10%;
+    margin-left: 45%;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+div {
+    box-sizing: border-box;
+    background-color: #aceca1;
+    width: 20%;
+    margin-left: 40%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 ul, li, a {
-    background-color: #e9afa3;
-    font-size: large;
+    font-size: 20px;
+    background-color: #aceca1;
 }
 
 .header {
